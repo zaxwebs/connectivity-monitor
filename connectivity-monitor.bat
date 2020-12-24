@@ -1,4 +1,5 @@
 @echo off
+title Connectivity Monitor by Zack Webster
 set Url=www.google.com
 set Delay=5
 set LogDir=C:\ping-logs
